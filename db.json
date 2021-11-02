@@ -1,0 +1,223 @@
+{
+    "personnel": [{
+        "firstName": "Valencia",
+        "lastName": "Philippi",
+        "ID": "E0001",
+        "level": "A10000-100",
+        "medicalBenefits": "Employee Only",
+        "startDate": "6/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Dora",
+        "lastName": "Boaz",
+        "ID": "E0002",
+        "level": "A10000-200",
+        "medicalBenefits": "Employee Plus Spouse",
+        "startDate": "6/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Priscilla",
+        "lastName": "Gault",
+        "ID": "E0003",
+        "level": "A10000-300",
+        "medicalBenefits": "Employee Plus Family",
+        "startDate": "6/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Diann",
+        "lastName": "Rothe",
+        "ID": "E0004",
+        "level": "A10000-400",
+        "medicalBenefits": "Employee Plus Child",
+        "startDate": "6/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Benjamin",
+        "lastName": "Benevides",
+        "ID": "E0005",
+        "level": "A10000-500",
+        "medicalBenefits": "Employee Only",
+        "startDate": "9/1/19",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Rosana",
+        "lastName": "Filippone",
+        "ID": "E0006",
+        "level": "B10000-100",
+        "medicalBenefits": "Employee Plus Spouse",
+        "startDate": "9/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Glinda",
+        "lastName": "Scarborough",
+        "ID": "E0007",
+        "level": "B10000-200",
+        "medicalBenefits": "Employee Plus Family",
+        "startDate": "9/1/19",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Jessia",
+        "lastName": "Cardella",
+        "ID": "E0008",
+        "level": "B10000-300",
+        "medicalBenefits": "Employee Plus Child",
+        "startDate": "9/1/19",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Isreal",
+        "lastName": "Bonham",
+        "ID": "E0009",
+        "level": "B10000-400",
+        "medicalBenefits": "Employee Only",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Evelyne",
+        "lastName": "Spangler",
+        "ID": "E0010",
+        "level": "B10000-500",
+        "medicalBenefits": "Employee Plus Spouse",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Jarrett",
+        "lastName": "Duncan",
+        "ID": "E0011",
+        "level": "A10000-100",
+        "medicalBenefits": "Employee Plus Family",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Olympia",
+        "lastName": "Pike",
+        "ID": "E0012",
+        "level": "A10000-200",
+        "medicalBenefits": "Employee Plus Child",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Bebe",
+        "lastName": "Courtemanche",
+        "ID": "E0013",
+        "level": "A10000-300",
+        "medicalBenefits": "Employee Only",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Chloe",
+        "lastName": "Hansford",
+        "ID": "E0014",
+        "level": "A10000-400",
+        "medicalBenefits": "Employee Plus Spouse",
+        "startDate": "1/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Classie",
+        "lastName": "Peller",
+        "ID": "E0015",
+        "level": "A10000-500",
+        "medicalBenefits": "Employee Plus Family",
+        "startDate": "5/1/20",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Harmony",
+        "lastName": "Ferrier",
+        "ID": "E0016",
+        "level": "B10000-100",
+        "medicalBenefits": "Employee Plus Child",
+        "startDate": "5/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Zachery",
+        "lastName": "Hu",
+        "ID": "E0017",
+        "level": "B10000-200",
+        "medicalBenefits": "Employee Only",
+        "startDate": "5/1/20",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }, {
+        "firstName": "Kristi",
+        "lastName": "Failla",
+        "ID": "E0018",
+        "level": "B10000-300",
+        "medicalBenefits": "Employee Plus Spouse",
+        "startDate": "5/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Sarina",
+        "lastName": "Statham",
+        "ID": "E0019",
+        "level": "B10000-400",
+        "medicalBenefits": "Employee Plus Family",
+        "startDate": "12/1/20",
+        "endDate": "",
+        "hrsPerWeek": 0,
+        "payRate": 100000,
+        "per": "Yr"
+    }, {
+        "firstName": "Carolin",
+        "lastName": "Chesser",
+        "ID": "E0020",
+        "level": "B10000-500",
+        "medicalBenefits": "Employee Plus Child",
+        "startDate": "12/1/20",
+        "endDate": "",
+        "hrsPerWeek": 40,
+        "payRate": 48,
+        "per": "Hr"
+    }]
+}
